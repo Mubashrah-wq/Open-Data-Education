@@ -35,4 +35,4 @@ define(‘DB_PASSWORD’, ‘your_database_password’);
 
 define(‘DB_HOST’, ‘localhost’);
 
-Your open data interface is ready to go.
+Open data interface is ready to go.
